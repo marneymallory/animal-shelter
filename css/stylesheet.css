@@ -12,3 +12,15 @@ font-style: italic;
 .border {
   border: 10px solid rgb(113, 195, 113);
 }
+
+.column {
+  width: 33%;
+  float: left;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
