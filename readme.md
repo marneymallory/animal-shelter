@@ -18,7 +18,7 @@ Software Requirements:
 2. A code editor like VSCode 
 
 Open by downloading:
-1. Download this repository onto your computer by clicking the 'code button' and copyling {`link`} to your clipboard
+1. Download this repository onto your computer by clicking the 'code button' and copyling `https://github.com/marneymallory/animal-shelter.git` to your clipboard
 
 2. Navigate into the `animal-shelter` directory, and open in Visual Studio Code
 
