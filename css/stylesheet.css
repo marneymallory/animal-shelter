@@ -1,8 +1,14 @@
 body {
+  text-align: center;
   font-family: Helvetica;
 }
+
 h2 {
 font-weight: bold;
 color:blue;
 font-style: italic;
+}
+
+.border {
+  border: 10px solid rgb(113, 195, 113);
 }
